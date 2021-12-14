@@ -8,9 +8,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@apollo/react-hooks": "^4.0.0",
+    "apollo-boost": "^0.4.9",
+    "apollo-datasource-rest": "^3.4.0",
+    "apollo-server-micro": "2.25.0",
+    "graphql": "^15.7.2",
     "next": "12.0.7",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "vcc-ui": "^2.11.3"
   },
   "devDependencies": {
     "eslint": "8.4.0",
